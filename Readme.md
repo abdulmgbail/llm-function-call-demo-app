@@ -1,11 +1,12 @@
-# Function Calling Demo Application,LLM Langchain, and Streamlit
+# Function Calling using LLM3, Langchain, and Streamlit
 
 ## Overview
 
-This project is a **Function calling application** built using **LLM3**, **Langchain**, and **Streamlit**. The app enables users to interact with an advanced language model, and user can create custom function and model can respond the these custom function.
+This project is a **Function calling demo app** built using **LLM3**, **Langchain**, and **Streamlit**. The app enables users to interact with an advanced language model in real-time, and also user can create custom function.Using lanchain tools model can respond prompt related to custom function.
 
 ## Features
 
+- **Real-time Chat**: Interact with an advanced large language model powered by LLM3.
 - **Structured Conversation**: Manage and organize conversations using **Langchain** to enhance context retention and flow.
 - **User-Friendly Interface**: Simple and interactive UI powered by **Streamlit**.
 - **Customizable Parameters**: Adjust the model's behavior, such as response length and creativity, to tailor interactions.
